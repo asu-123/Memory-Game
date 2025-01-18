@@ -59,7 +59,7 @@ The Arduino code for the game is included in the `Memory_game_code.ino` file. It
 
 1. Assemble the circuit as per the circuit diagram.
 2. Connect the Arduino to your computer via USB.
-3. Upload the `memory_game.ino` code to the Arduino using the Arduino IDE.
+3. Upload the `Memory_game_code.ino` code to the Arduino using the Arduino IDE.
 4. Power the Arduino and start playing!
 
 ---
