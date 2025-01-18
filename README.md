@@ -37,7 +37,7 @@ Refer to the image included in this repository for the wiring diagram. Ensure al
 
 ## Code
 
-The Arduino code for the game is included in the `memory_game.ino` file. It handles the following:
+The Arduino code for the game is included in the `memory_game-code.ino` file. It handles the following:
 
 - Generating a random light sequence.
 - Detecting user button inputs.
